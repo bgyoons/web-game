@@ -3,3 +3,9 @@ package-lock.json
 webpack.config.js
 .vscode
 dist
+*/src/setupTests.js
+*/src/reportWebVitals.js
+*/src/index.js
+*/src/index.css
+*/src/App.test.js
+public
